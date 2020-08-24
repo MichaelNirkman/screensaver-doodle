@@ -1,0 +1,13 @@
+.image{
+    width: 300px;
+    height: 300px;
+    position: relative;
+}
+
+.img-container{
+    outline: thick solid blue;
+}
+
+body{
+    background-color: #303030;
+}
